@@ -1,0 +1,13 @@
+superproj(l(outgroup,l(l(l(l(sp5,l(sp12,nil)),l(l(sp8,l(sp17,nil)),nil)),l(sp11,nil)),nil)),rnd30197).
+superproj(l(outgroup,l(l(l(sp3,l(l(sp9,l(l(sp11,l(sp17,nil)),nil)),nil)),l(sp6,nil)),nil)),rnd30197).
+superproj(l(outgroup,l(l(l(sp7,l(l(l(sp11,l(sp15,nil)),l(sp14,nil)),nil)),l(sp4,nil)),nil)),rnd30197).
+superproj(l(outgroup,l(l(l(sp1,l(l(sp11,l(sp14,nil)),nil)),l(l(sp13,l(sp10,nil)),nil)),nil)),rnd30197).
+superproj(l(outgroup,l(l(l(sp1,l(l(sp3,l(l(sp16,l(sp14,nil)),nil)),nil)),l(sp8,nil)),nil)),rnd30197).
+superproj(l(outgroup,l(l(l(sp12,l(sp16,nil)),l(l(sp2,l(l(sp10,l(sp8,nil)),nil)),nil)),nil)),rnd30197).
+superproj(l(outgroup,l(l(l(l(sp12,l(sp16,nil)),l(sp15,nil)),l(l(sp2,l(sp6,nil)),nil)),nil)),rnd30197).
+superproj(l(outgroup,l(l(l(sp3,l(l(sp12,l(sp7,nil)),nil)),l(l(sp6,l(sp13,nil)),nil)),nil)),rnd30197).
+superproj(l(outgroup,l(l(sp15,l(l(sp2,l(l(sp4,l(l(sp6,l(sp13,nil)),nil)),nil)),nil)),nil)),rnd30197).
+superproj(l(outgroup,l(l(l(l(sp5,l(sp9,nil)),l(sp17,nil)),l(l(sp10,l(sp8,nil)),nil)),nil)),rnd30197).
+superproj(l(outgroup,l(l(l(sp3,l(l(sp12,l(l(sp7,l(sp11,nil)),nil)),nil)),l(sp8,nil)),nil)),rnd30197).
+superproj(l(outgroup,l(l(l(sp3,l(l(l(sp12,l(sp9,nil)),l(sp15,nil)),nil)),l(sp10,nil)),nil)),rnd30197).
+superproj(l(outgroup,l(l(l(sp16,l(sp14,nil)),l(l(l(sp6,l(sp13,nil)),l(sp8,nil)),nil)),nil)),rnd30197).
