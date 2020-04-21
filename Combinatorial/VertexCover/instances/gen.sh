@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
-prev=5;
-sed 's|NUM|5|g' vc-fill.asp > vc-5-hard.asp
+prev=7;
+sed 's|NUM|7|g' vc-fill-hard.asp > vc-7-hard.asp
 for (( k = 2; k < 21; k++));
 do 
-	num=$(( prev * 2));
+	num=$(( prev + 10));
 	prev=$num;
 	sed 's|NUM|'"$num"'|g' vc-fill.asp > vc-$num-hard.asp
 done
